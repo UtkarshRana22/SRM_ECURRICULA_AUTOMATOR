@@ -1,0 +1,1085 @@
+{
+  "cells": [
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 67,
+      "session": 1,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 68,
+      "session": 1,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 69,
+      "session": 2,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 70,
+      "session": 2,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 71,
+      "session": 3,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 72,
+      "session": 3,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 73,
+      "session": 4,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 74,
+      "session": 4,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 75,
+      "session": 5,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 76,
+      "session": 5,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 77,
+      "session": 6,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 78,
+      "session": 6,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 79,
+      "session": 7,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 80,
+      "session": 7,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 81,
+      "session": 8,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 82,
+      "session": 8,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 83,
+      "session": 9,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 84,
+      "session": 9,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 85,
+      "session": 10,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 86,
+      "session": 10,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 87,
+      "session": 11,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 88,
+      "session": 11,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 89,
+      "session": 12,
+      "text": "1",
+      "unit": 1
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 90,
+      "session": 12,
+      "text": "2",
+      "unit": 1
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 91,
+      "session": 1,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 92,
+      "session": 1,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 93,
+      "session": 2,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 94,
+      "session": 2,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 95,
+      "session": 3,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 96,
+      "session": 3,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 97,
+      "session": 4,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 98,
+      "session": 4,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 99,
+      "session": 5,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 100,
+      "session": 5,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 101,
+      "session": 6,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 102,
+      "session": 6,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 103,
+      "session": 7,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 104,
+      "session": 7,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 105,
+      "session": 8,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 106,
+      "session": 8,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 107,
+      "session": 9,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 108,
+      "session": 9,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 109,
+      "session": 10,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 110,
+      "session": 10,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 111,
+      "session": 11,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 112,
+      "session": 11,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 113,
+      "session": 12,
+      "text": "1",
+      "unit": 2
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 114,
+      "session": 12,
+      "text": "2",
+      "unit": 2
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 115,
+      "session": 1,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 116,
+      "session": 1,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 117,
+      "session": 2,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 118,
+      "session": 2,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 119,
+      "session": 3,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 120,
+      "session": 3,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(26, 188, 156)",
+      "gIndex": 121,
+      "session": 4,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 122,
+      "session": 4,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 123,
+      "session": 5,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(247, 183, 49)",
+      "gIndex": 124,
+      "session": 5,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 125,
+      "session": 6,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 126,
+      "session": 6,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 127,
+      "session": 7,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 128,
+      "session": 7,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 129,
+      "session": 8,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 130,
+      "session": 8,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 131,
+      "session": 9,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 132,
+      "session": 9,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 133,
+      "session": 10,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 134,
+      "session": 10,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 135,
+      "session": 11,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 136,
+      "session": 11,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 137,
+      "session": 12,
+      "text": "1",
+      "unit": 3
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 138,
+      "session": 12,
+      "text": "2",
+      "unit": 3
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 139,
+      "session": 1,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 140,
+      "session": 1,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 141,
+      "session": 2,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 142,
+      "session": 2,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 143,
+      "session": 3,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 144,
+      "session": 3,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 145,
+      "session": 4,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 146,
+      "session": 4,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 147,
+      "session": 5,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 148,
+      "session": 5,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 149,
+      "session": 6,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 150,
+      "session": 6,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 151,
+      "session": 7,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 152,
+      "session": 7,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 153,
+      "session": 8,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 154,
+      "session": 8,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 155,
+      "session": 9,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 156,
+      "session": 9,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 157,
+      "session": 10,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 158,
+      "session": 10,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 159,
+      "session": 11,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 160,
+      "session": 11,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 161,
+      "session": 12,
+      "text": "1",
+      "unit": 4
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 162,
+      "session": 12,
+      "text": "2",
+      "unit": 4
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 163,
+      "session": 1,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 164,
+      "session": 1,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 165,
+      "session": 2,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 166,
+      "session": 2,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 167,
+      "session": 3,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 168,
+      "session": 3,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 169,
+      "session": 4,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 170,
+      "session": 4,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 171,
+      "session": 5,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 172,
+      "session": 5,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 173,
+      "session": 6,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 174,
+      "session": 6,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 175,
+      "session": 7,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 176,
+      "session": 7,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 177,
+      "session": 8,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 178,
+      "session": 8,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 179,
+      "session": 9,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 180,
+      "session": 9,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 181,
+      "session": 10,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 182,
+      "session": 10,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 183,
+      "session": 11,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 184,
+      "session": 11,
+      "text": "2",
+      "unit": 5
+    },
+    {
+      "badge": 1,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 185,
+      "session": 12,
+      "text": "1",
+      "unit": 5
+    },
+    {
+      "badge": 2,
+      "exists": true,
+      "fill": "rgb(252, 92, 101)",
+      "gIndex": 186,
+      "session": 12,
+      "text": "2",
+      "unit": 5
+    }
+  ],
+  "totalGroups": 186
+}
